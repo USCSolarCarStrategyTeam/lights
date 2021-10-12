@@ -1,2 +1,2 @@
 # lights
-code for solar car light system
+code/basic logic for solar car light system
